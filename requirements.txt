@@ -1,7 +1,8 @@
 runpod>=1.6.0
-diffusers>=0.32.0
-transformers>=4.44.0
-accelerate>=0.34.0
+diffusers==0.31.0
+transformers==4.44.2
+accelerate==0.34.2
+huggingface_hub==0.25.2
 sentencepiece>=0.2.0
 protobuf>=4.25.0
 Pillow>=10.0.0
